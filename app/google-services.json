@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "135911391539",
+    "firebase_url": "https://map-demo-a76a6.firebaseio.com",
+    "project_id": "map-demo-a76a6",
+    "storage_bucket": "map-demo-a76a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135911391539:android:fa84ef0e3dc7e141a77e46",
+        "android_client_info": {
+          "package_name": "com.tetra.mapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135911391539-1sstf8rvtosp0nlk4rtjqkujvk3dv0ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3UHPch7155x_aKyC7lygL4wPwbPskC60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135911391539-1sstf8rvtosp0nlk4rtjqkujvk3dv0ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

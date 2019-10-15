@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="TravelCA">Travel CA</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Your_Location">Your Location</string>
+    <string name="Destination">Destination</string>
+    <string name="Route">Route</string>
+
+</resources>
